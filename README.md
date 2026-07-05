@@ -3,7 +3,24 @@
 StudyGenius AI is a full-stack AI-powered learning platform that transforms static study materials into interactive learning experiences. It converts PDFs, DOCX, TXT, PPTX, and Images into quizzes, concise summaries, visual mind maps, and AI-generated study podcasts, making learning more engaging and effective.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Google-Gemini_AI-4285F4?logo=google" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
+---
 
+# 🌐 Live Demo
+
+**Website:** [https://cognitive-stress-analyzer.netlify.app/](https://6a4a2f82ecb69e0f906fa42b--vermillion-lokum-69010c.netlify.app)
+
+# 📂 GitHub Repository
+
+**Repository:** [https://github.com/Bharadwaj1433/Cognitive-Stress-Analyzer](https://github.com/Bharadwaj1433/StudyGenius-AI-Study-Assistant_)
+
+---
 # ✨ Features
 
 ## 📚 Multi-Document Contextual Learning

@@ -6,7 +6,7 @@ StudyGenius AI is a full-stack AI-powered learning platform that transforms stat
 
 # 🌐 Live Demo
 
-**Website:** [https://StudyGenius-AI-Study-Assistant.netlify.app/](https://6a4a2f82ecb69e0f906fa42b--vermillion-lokum-69010c.netlify.app)
+**Website:** [https://StudyGenius-AI-Study-Assistant.netlify.app/](https://6a4a90570673f9749cb9bb88--studygeniusaiaisa.netlify.app/)
 
 # 📂 GitHub Repository
 
